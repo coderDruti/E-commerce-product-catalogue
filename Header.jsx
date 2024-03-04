@@ -10,7 +10,7 @@ export default function Header() {
         <SidebarNav className="c" />
       </a>
       <h1>Online Shop</h1>
-      <a href="http://localhost:5173">
+      <a href="https://e-commerce-product-catalogue.vercel.app/">
         <img className="logo" src={Logo} alt="Company logo" />
       </a>
       <section className="navigation">
