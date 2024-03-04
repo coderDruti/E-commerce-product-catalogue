@@ -14,24 +14,24 @@ export default function MainContent() {
       "Highest rated": "office_desk.jpg",
     },
     {
-      "Best seller": "./utensil.jpg",
-      "Our choice": "./pan_set.jpg",
-      "Highest rated": "./carrier.jpg",
+      "Best seller": "utensil.jpg",
+      "Our choice": "pan_set.jpg",
+      "Highest rated": "carrier.jpg",
     },
     {
-      "Best seller": "./headset.jpg",
-      "Our choice": "./earpods.jpg",
-      "Highest rated": "./phone_stand.jpg",
+      "Best seller": "headset.jpg",
+      "Our choice": "earpods.jpg",
+      "Highest rated": "phone_stand.jpg",
     },
     {
-      "Best seller": "./best_seller_w.jpg",
-      "Our choice": "./our_choice.jpg",
-      "Highest rated": "./highest.jpg",
+      "Best seller": "best_seller_w.jpg",
+      "Our choice": "our_choice.jpg",
+      "Highest rated": "highest.jpg",
     },
     {
-      "Best seller": "./men_best_seller.jpg",
-      "Our choice": "./m_our_choice.jpg",
-      "Highest rated": "./mfashion.jpg",
+      "Best seller": "men_best_seller.jpg",
+      "Our choice": "m_our_choice.jpg",
+      "Highest rated": "mfashion.jpg",
     },
   ];
   return (
