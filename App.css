@@ -115,10 +115,10 @@ section h3.prod {
   max-width: max-content;
   color: rgb(255, 255, 255);
 }
-.articles {
+/* .articles {
   display: flex;
   justify-content: space-between;
-}
+} */
 .caption {
   color: rgb(255, 255, 255);
 }
