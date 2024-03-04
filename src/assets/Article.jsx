@@ -4,7 +4,7 @@ export default function Article({ c, Image, caption }) {
   return (
     <figure>
       <img
-        src={Image}
+        src={`public/${Image}`}
         alt="Article"
         style={{
           height: "250px",
