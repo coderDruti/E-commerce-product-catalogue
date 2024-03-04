@@ -2,10 +2,9 @@
 import Article from "./Article.jsx";
 
 export default function Category({ catNumber, prods, ...s }) {
-  let i = "";
-  console.log(s, i);
+  console.log(s);
   const arr = Object.entries(s.source);
-  console.log(arr, i);
+  console.log(arr);
   const Image1 = arr[0][1];
   const Image2 = arr[1][1];
   const Image3 = arr[2][1];
