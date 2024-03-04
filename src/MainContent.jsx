@@ -9,29 +9,29 @@ export default function MainContent() {
   };
   const source = [
     {
-      "Best seller": "ergonomic_chair.jpg",
-      "Our choice": "office_supplies.jpg",
-      "Highest rated": "office_desk.jpg",
+      "Best seller": "./assets/ergonomic_chair.jpg",
+      "Our choice": "./assets/office_supplies.jpg",
+      "Highest rated": "./assets/office_desk.jpg",
     },
     {
-      "Best seller": "utensil.jpg",
-      "Our choice": "pan_set.jpg",
-      "Highest rated": "carrier.jpg",
+      "Best seller": "./assets/utensil.jpg",
+      "Our choice": "./assets/pan_set.jpg",
+      "Highest rated": "./assets/carrier.jpg",
     },
     {
-      "Best seller": "headset.jpg",
-      "Our choice": "earpods.jpg",
-      "Highest rated": "phone_stand.jpg",
+      "Best seller": "./assets/headset.jpg",
+      "Our choice": "./assets/earpods.jpg",
+      "Highest rated": "./assets/phone_stand.jpg",
     },
     {
-      "Best seller": "best_seller_w.jpg",
-      "Our choice": "our_choice.jpg",
-      "Highest rated": "highest.jpg",
+      "Best seller": "./assets/best_seller_w.jpg",
+      "Our choice": "./assets/our_choice.jpg",
+      "Highest rated": "./assets/highest.jpg",
     },
     {
-      "Best seller": "men_best_seller.jpg",
-      "Our choice": "m_our_choice.jpg",
-      "Highest rated": "mfashion.jpg",
+      "Best seller": "./assets/men_best_seller.jpg",
+      "Our choice": "./assets/m_our_choice.jpg",
+      "Highest rated": "./assets/mfashion.jpg",
     },
   ];
   return (
