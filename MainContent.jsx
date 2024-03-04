@@ -9,9 +9,9 @@ export default function MainContent() {
   };
   const source = [
     {
-      "Best seller": "ergonomic_chair.jpg",
-      "Our choice": "office_supplies.jpg",
-      "Highest rated": "office_desk.jpg",
+      "Best seller": ergonomic_chair.jpg,
+      "Our choice": office_supplies.jpg,
+      "Highest rated": office_desk.jpg,
     },
     {
       "Best seller": "utensil.jpg",
