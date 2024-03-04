@@ -1,5 +1,5 @@
-import Logo from "/public/logo.jpg";
-import Sidebar_Nav from "/public/Sidebar_nav.svg";
+import Logo from "./assets/logo.jpg";
+import Sidebar_Nav from "./assets/Sidebar_nav.svg";
 import SidebarNav from "./SidebarNav";
 
 export default function Header() {
