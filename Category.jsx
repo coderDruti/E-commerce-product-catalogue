@@ -17,9 +17,9 @@ export default function Category({ catNumber, prods, ...s }) {
       </h3>
       <h3 className="prod">Some of our products</h3>
       <div className="articles">
-        <Article className="article" Image={Image1} caption={"Best Seller"} />
-        <Article className="article" Image={Image2} caption={"Our choice"} />
-        <Article className="article" Image={Image3} caption={"Highest rated"} />
+        <Article Image={Image1} caption={"Best Seller"} />
+        <Article Image={Image2} caption={"Our choice"} />
+        <Article Image={Image3} caption={"Highest rated"} />
       </div>
     </section>
   );
