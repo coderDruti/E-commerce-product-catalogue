@@ -6,7 +6,7 @@ export default function Index() {
   return (
     <>
       <Header />
-      <MainContent className="outside" />
+      <MainContent />
       <Footer />
     </>
   );
